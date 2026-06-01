@@ -1,4 +1,4 @@
-# 💫 About Me:
+👋 Hi, I'm Shweta Ganagi
 🔭 Currently Working On:<br>AI Career Recommendation System, AuraGate – AI Browser Assistant<br><br>👯 Looking to Collaborate On:<br>Machine Learning, AI Applications, and Open Source Projects<br><br>🤝 Looking for Help With:<br>Advanced Machine Learning, Cybersecurity Research, and System Design<br><br>🌱 Currently Learning:<br>Data Structures & Algorithms, Machine Learning, and Cybersecurity<br><br>💬 Ask Me About:<br>Java, Python, DSA, DBMS, OOP, and Machine Learning<br><br>
 
 
